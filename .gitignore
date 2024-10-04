@@ -1,0 +1,13 @@
+#Node.js modules
+node_modules/
+
+#Environment varibles
+.env
+
+#Buid directories
+frontend/build/
+backend/node_modules/
+
+#Logs
+*.log
+
